@@ -1,5 +1,5 @@
 // Array of questions grouped by category (25 questions each)
-
+console.log('Hello')
 const questions = [
   {
     category: "programming",
