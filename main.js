@@ -2,7 +2,7 @@ let quiz_Time_Limit = 15;
 let timer = null;
 let currentTime = quiz_Time_Limit;
 
-
+console.log('hello')
 
 const configContainer = document.querySelector('.config-container');
 const displayTime = document.querySelector('.time-duration');

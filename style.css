@@ -62,7 +62,7 @@ body{
 .config-option button{
   padding: 12px;
   font-size: 0.983rem;
-  border-radius: 6px;
+  border-radius: 7px;
   font-weight: 500;
   background: #fff;
   border: 1px solid hsla(276, 92%, 16%, 0.93);
